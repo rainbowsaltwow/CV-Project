@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+   background-color: #eee;
+   font-family: 'Akshar', sans-serif;
+}
+.container{
+    width: 1000px;
+    background-color: #e4f9f5;
+    margin: 0 auto;
+    padding: 20px;
+}
+header{
+
+}
+.asif{
+    height: 120px ;
+    width: 120px;
+    border: 3px solid white;
+    border-radius: 30%;
+    float: left;
+}
+.bio-asif{ 
+    float: left;
+    padding: 30px;
+}
+h1, h2, h3, h4, h5, h6{
+    color: #11999e;
+}
+.contact{
+     float: right;
+     padding: 30px;
+     text-decoration: none;
+     
+}
+.contant,a{
+         text-decoration: none;
+         color: teal;
+         font-weight: bold;
+}
+.contact a:hover{
+    text-decoration: underline;
+    color: hotpink;
+
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width: 1005;
+    margin: 20px auto;
+}
+/*------------personal section starts here-----
+--------------------------------------------------- */
+
+#personal-section{
+
+}
+.contant{
+
+    margin-bottom: 30px;
+}
+.left-side{
+    width: 30%;
+    float: left;
+
+}
+.left-side{
+    font-size: 30px;
+}
+.right-side{
+    width: 70%;
+    float: right;
+    margin: 0 auto;
+
+}
+.div-clear{
+    clear: both;
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+}
+.bottom-container,a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    padding: 20px;
+}
